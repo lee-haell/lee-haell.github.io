@@ -10,3 +10,14 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  sidebar-category:
+  - title: "Markup"
+    children:
+      - title: "HTML/CSS"
+        url: "/markup"
+
+  - title: "Portfolio"
+    children:
+      - title: "github blog"
+        url: "/blog"
